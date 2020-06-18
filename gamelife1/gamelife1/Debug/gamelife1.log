@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\GitHub\gamelife1\gamelife1\gamelife1\Source.cpp(176,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\GitHub\gamelife1\gamelife1\gamelife1\Source.cpp(177,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\GitHub\gamelife1\gamelife1\gamelife1\Source.cpp(191,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\GitHub\gamelife1\gamelife1\gamelife1\Source.cpp(192,17): warning C4018: <: несоответствие типов со знаком и без знака
+  gamelife1.vcxproj -> C:\GitHub\gamelife1\gamelife1\Debug\gamelife1.exe
